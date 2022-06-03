@@ -1,6 +1,5 @@
 ### Olá amigos 👋
 
-- ☢ Site: www.luizalmeidajr.com.br
 - 🤓 Estudando JavaScript,NodeJs, React...
 
 <div align="center">
