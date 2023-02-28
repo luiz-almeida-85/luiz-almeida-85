@@ -1,6 +1,6 @@
 ### Olá amigos 👋
 
-- 🤓 Estudando JavaScript,NodeJs, React...
+
 
 <div align="center">
   <a href="https://github.com/luiz-almeida-85">
